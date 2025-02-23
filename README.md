@@ -42,6 +42,87 @@ A concise paragraph (2–4 sentences) highlighting your top skills, experience, 
 
 *(Continue for other relevant roles in reverse chronological order.)*
 
+
+### **Head of SWPS Technical and Security** Ericsson AB
+**Karlskrona, Blekinge County, Sweden** (Jun 2023 – Present)
+
+Set the strategic direction for technology and security in GitOps, CI/CD, internal developer portals, and software supply chain.
+Oversee the implementation of GitLab, Flux, and Go for secure, automated delivery pipelines.
+
+### **Head of BSS Solution and Product Characteristics** Ericsson Inc
+**Plano, TX, USA**  (Nov 2020 – Jun 2023)
+
+Defined and executed SA BSS technology, architecture vision, and evolution for non-functional characteristics (serviceability, cloud native, SW Delivery Pipeline).
+Created and maintained blueprints for Cloud Native, SWDP (Software Delivery Pipeline), and other non-functional areas; supported product organizations in implementation.
+Leveraged GitLab, Flux, and Go for continuous integration and deployment.
+Head of SA BSS E2E Integration Factory
+Ericsson | Jul 2019 – Nov 2020
+
+Incubated critical initiatives within BSS R&D, including the Cloud Native journey, ML/AI learning, demo management, and prototyping.
+Led asset creation and event support to accelerate product evolution and innovation.
+E2E BSS Architect
+Ericsson, Global | May 2016 – Jul 2019
+
+Drove requirements definition, design, and implementation of security, business continuity, and operational management for a multi-country, full-stack BSS project.
+Delivered Ericsson Revenue Manager to an 11-country operator account across Africa, Eastern Europe, and Central Asia.
+Led a team of 7 architects/SMEs ensuring full coverage of non-functional domain requirements.
+Senior Solutions Architect
+Ericsson, Bellevue, WA, USA | Apr 2014 – May 2016
+
+Architected a large-scale BSS transformation project (billing, order management, product catalog, middleware) integrating legacy back-office applications (revenue assurance, fraud management, campaign management).
+Defined frameworks for control & compliance (SOX, SOC 1 audits); led a team of 7 architects on domain solutions.
+Principal Engineer, Cloud Services
+Ericsson, Plano, TX, USA | Feb 2013 – Apr 2014
+
+Served as main architect for data center infrastructure including IP backbone, SS7 networks, security, and long-haul transport.
+Drove vendor management, RFP preparations, and quarterly business reviews; supported business cases/solutions for cloud services proposals in Region North America.
+SS7 & Transport Manager
+Ericsson | May 2010 – Feb 2013
+
+Managed SS7 and transport networks, overseeing network security, backbone maintenance, and related infrastructure projects.
+Coordinated cross-functional teams to ensure reliable signaling and transport solutions.
+Engineer V – Svcs Sftwr
+Ericsson | Oct 2008 – May 2010
+
+Contributed to software services development and support, focusing on improving system reliability and service quality.
+Collaborated with cross-departmental teams to troubleshoot and optimize network services.
+Network Support Group Manager, Market Unit South East Asia
+Ericsson, Dhaka, Bangladesh | Sep 2007 – Sep 2008
+
+Led support for IN/VAS/BSS products across 9 countries; managed 40+ staff to deliver high-quality, efficient service.
+Improved regional support operations by implementing best practices and targeted knowledge transfer.
+Master Support Engineer
+Ericsson | Jul 2006 – Sep 2007
+
+Provided expert-level support and guidance on Ericsson products, mentoring local engineers in Bangladesh.
+Handled high-priority support cases, increasing local team self-sufficiency.
+Services Engineer
+Ericsson | Jul 2004 – Jul 2006
+
+Started up AT&T/Cingular prepaid services; integrated 220+ MSCs with Ericsson-hosted SCPs.
+Supported and maintained prepaid services for multiple customers, ensuring seamless service delivery.
+System Engineer
+Ericsson | May 2001 – Jul 2004
+
+Served as system verification lead for PPS releases (3.4, 3.5, 3.6).
+Coordinated testing cycles, led quality assurance initiatives, and optimized release workflows.
+IN Expert
+Ericsson | Jun 2000 – May 2001
+
+Acted as technical lead for PPS 3.1 FOA in Manila, introducing CDR processing in Ericsson Charging System.
+Streamlined integration processes and enhanced system performance for local deployments.
+System Engineer
+Ericsson, Lisbon, Portugal | Aug 1998 – Jun 2000
+
+Introduced PPS 3.0 at Optimus; installed three MSCs and conducted radio network planning for phases 3 and 4.
+Managed migration of nine BSCs, coordinating with cross-functional teams for minimal service disruption.
+AXE Installation Engineer
+Ericsson | Aug 1997 – Aug 1998
+
+Designed, installed, and integrated new AXE switches in China.
+Collaborated with field teams and vendors to ensure on-time, high-quality deployments.
+
+
 ---
 
 ## Education
@@ -98,7 +179,6 @@ Location (Month YYYY – Month YYYY)
 ## References
 
 - *Available upon request.*  
-*(You can optionally provide references if required by the employer.)*
 
 ---
 
