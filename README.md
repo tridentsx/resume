@@ -14,9 +14,9 @@ I am an accomplished technology leader returning to North Texas, with proven suc
 
 ## Core Skills
 
-- **Skill 1** (e.g., Programming Languages: C#, Java, Python)
-- **Skill 2** (e.g., Cloud Platforms: AWS, Azure)
-- **Skill 3** (e.g., Data Analysis, Machine Learning)
+- **Skill 1** (Programming Languages: golang, c/c++, Python, bash)
+- **Skill 2** (Cloud Platforms: AWS, CNIS, Openshift, Kubernetes)
+- **Skill 3** (Technology: Continous Integration)
 - **Skill 4** (e.g., Project Management, Agile/Scrum)
 
 *(Add or remove bullet points as needed.)*
