@@ -45,8 +45,12 @@ I am an accomplished technology leader returning to North Texas, with proven suc
 ### **Head of SWPS Technical and Security** Ericsson AB
 **Karlskrona, Blekinge County, Sweden** (Jun 2023 – Present)
 
-Set the strategic direction for technology and security in GitOps, CI/CD, internal developer portals, and software supply chain.
-Oversee the implementation of GitLab, Flux, and Go for secure, automated delivery pipelines.
+- **Set the strategic direction for technology and security for the whole end to end software supply chain and drove topices such as**
+- **GitOps** Adoption and support of Flux accorss portifolio
+- **CI/CD*** Oversee the implementation of GitLab
+- **Internal developer portals& Platform**
+- ** Opensource and 3PP Management**
+- **Unified the organisation on one CICD **, and software supply chain.
 
 ### **Head of BSS Solution and Product Characteristics** Ericsson Inc
 **Plano, TX, USA**  (Nov 2020 – Jun 2023)
