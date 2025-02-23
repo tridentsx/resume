@@ -9,8 +9,7 @@
 
 ## Professional Summary
 
-A concise paragraph (2–4 sentences) highlighting your top skills, experience, and the value you offer to employers. Tailor this summary to the specific role or industry you’re pursuing.
-
+I am an accomplished technology leader returning to North Texas, with proven success in driving innovation across cloud-native platforms, Kubernetes, and Go-based microservices. My deep expertise in supply chain security, SOC 2 compliance, and regulated industries enables me to deliver secure, scalable solutions through robust CI/CD pipelines. Leveraging a global leadership background, I excel at building high-performing teams that adopt and integrate cutting-edge technologies. Eager to reestablish myself in the U.S. after several years abroad, I am ready to spearhead transformative initiatives and deliver exceptional results for forward-thinking organizations.
 ---
 
 ## Core Skills
@@ -157,7 +156,7 @@ Location (Month YYYY – Month YYYY)
 
 ## Projects (Optional)
 
-### **Project Title**  
+### **Veon Group BSS Fullstack Delivery**  
 **Role** (e.g., Developer, Project Lead) | (Month YYYY – Month YYYY)
 
 - **Description** – Summarize the project’s purpose, scope, and your contributions.
@@ -178,12 +177,11 @@ Location (Month YYYY – Month YYYY)
 - *Responsibilities/Achievements*
 
 ### Languages
-- **English** – Native/Fluent  
-- **Spanish** – Intermediate  
-- **Swedish** – Conversational
+- **English** – Fluent
+- **Swedish** – Native
 
 ### Interests
-- If relevant and showcasing unique skills or cultural fit (e.g., hackathons, open-source contributions).
+- Reverse engineering and Electronics 
 
 ---
 
