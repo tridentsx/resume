@@ -124,7 +124,7 @@ Location (Month YYYY – Month YYYY)
 
 ---
 
-## Projects (Optional)
+## Projects
 
 ### **Veon Group BSS Fullstack Delivery**  
 **Lead Non Functional Delivery**  | (May 2016 – May 2018)
@@ -134,7 +134,8 @@ Location (Month YYYY – Month YYYY)
 ### **T-Mobile USA BSS Fullstack Delivery**  
 **Lead Architect Back Office Integration**  | (April 2014 – May 2016)
 
-- **Lead the delivery and development of all middleware to integrate the T-Mobile backend systems such as Revenue Assurance, Fraud Management, Comission solution, Marketing, Logistics 1 billion USD program**
+- **Lead the delivery and development of all middleware to integrate the T-Mobile backend systems such as Revenue Assurance, Fraud Management, Comission solution, Marketing, SOC2, Logistics 1 billion USD program**
+- Upsell of AUX DB, 32 MUSD 
 
 
 ---
