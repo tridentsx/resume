@@ -10,7 +10,9 @@
 ## Professional Summary
 
 
-I am an accomplished technology leader, with proven success in driving innovation across cloud-native platforms, Kubernetes, and Go-based microservices. My deep expertise in supply chain security, SOC 2 compliance, and regulated industries enables me to deliver secure, scalable solutions through robust CI/CD pipelines. Leveraging a global leadership background, I excel at building high-performing teams that adopt and integrate cutting-edge technologies. I am ready to spearhead transformative initiatives and deliver exceptional results for forward-thinking organizations.
+I am an accomplished technology leader, with proven success in driving innovation across cloud-native platforms, Kubernetes, and Go-based microservices. My deep expertise in supply chain security, SOC 2 compliance, and regulated industries enables me to deliver secure, scalable solutions through robust CI/CD pipelines. 
+
+Leveraging a global leadership background, I excel at building high-performing teams that adopt and integrate cutting-edge technologies. I am ready to spearhead transformative initiatives and deliver exceptional results for forward-thinking organizations.
 
 
 ---
@@ -28,18 +30,19 @@ I am an accomplished technology leader, with proven success in driving innovatio
 **Karlskrona, Blekinge County, Sweden** (Jun 2023 – Present)
 
 - **Set the strategic direction for technology and security for the whole end to end software supply chain and drove topices such as**
-- **GitOps** Adoption and support of Flux accorss portifolio
+- **GitOps** Adoption and support of Flux across the portifolio
 - **CI/CD*** Oversee the implementation of GitLab
-- **Internal developer portals& Platform**
+- **Internal developer Portals & Platform**
 - **Opensource and 3PP Management**
-- **Unified the organisation on one CICD **, and software supply chain.
+- **Unified the organisation on one CICD Platform**, and software supply chain.
 
 ### **Head of BSS Solution and Product Characteristics** Ericsson Inc
 **Plano, TX, USA**  (Nov 2020 – Jun 2023)
 
-Defined and executed SA BSS technology, architecture vision, and evolution for non-functional characteristics (serviceability, cloud native, SW Delivery Pipeline).
-Created and maintained blueprints for Cloud Native, SWDP (Software Delivery Pipeline), and other non-functional areas; supported product organizations in implementation.
-Leveraged GitLab, Flux, and Go for continuous integration and deployment.
+- **Defined and executed SA BSS technology, architecture vision, and evolution for non-functional characteristics (serviceability, cloud native, SW Delivery Pipeline).**
+- **Created and maintained blueprints for Cloud Native, SWDP (Software Delivery Pipeline), and other non-functional areas;**
+- Supported product organizations in implementation.
+- Leveraged GitLab, Flux, and Go for continuous integration and deployment.
 
 ### **Head of E2E Integration Factory** Ericsson Inc
 **Plano, TX, USA**  (Jul 2019 – Nov 2020)
