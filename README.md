@@ -1,9 +1,16 @@
 # Carl-Fredrik Sundstrom
 
-**Location**: Karlskrona, Sweden  
-**Phone**: +46 733 02 11 45  
-**Email**: carl.f.sundstrom@gmail.com 
-**LinkedIn**: [www.linkedin.com/in/carl-fredrik-sundstrom/](https://www.linkedin.com/in/carl-fredrik-sundstrom/)  
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <strong>Location:</strong> Karlskrona, Sweden  
+    <strong>Phone:</strong> +46 733 02 11 45  
+    <strong>Email:</strong> carl.f.sundstrom@gmail.com  
+    <strong>LinkedIn:</strong> [www.linkedin.com/in/carl-fredrik-sundstrom/](https://www.linkedin.com/in/carl-fredrik-sundstrom/)  
+  </div>
+  <div style="flex-shrink: 0; margin-left: 20px;">
+    <img src="me.png" alt="Profile Picture" width="150" style="border-radius: 10px;">
+  </div>
+</div>
 
 ---
 
