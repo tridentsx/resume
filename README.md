@@ -1,7 +1,5 @@
 # Carl-Fredrik Sundstrom
 
-# Carl-Fredrik Sundstrom
-
 **Location:** Karlskrona, Sweden  
 **Phone:** +46 733 02 11 45  
 **Email:** carl.f.sundstrom@gmail.com  
