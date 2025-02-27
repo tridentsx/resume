@@ -127,24 +127,21 @@ Location (Month YYYY – Month YYYY)
 ## Projects (Optional)
 
 ### **Veon Group BSS Fullstack Delivery**  
-**Role** (e.g., Developer, Project Lead) | (Month YYYY – Month YYYY)
+**Lead Non Functional Delivery**  | (May 2016 – May 2018)
 
-- **Description** – Summarize the project’s purpose, scope, and your contributions.
-- **Technologies Used** – E.g., React, Node.js, Docker, AWS.
+- **Lead the delivery of all non functional aspects such as infra design, security design, backup restore, for 9 opco billion dollar program**
 
-*(List more projects if relevant.)*
+### **T-Mobile USA BSS Fullstack Delivery**  
+**Lead Architect Back Office Integration**  | (April 2014 – May 2016)
+
+- **Lead the delivery and development of all middleware to integrate the T-Mobile backend systems such as Revenue Assurance, Fraud Management, Comission solution, Marketing, Logistics 1 billion USD program**
+
 
 ---
 
-## Additional Sections (Optional)
-
 ### Awards & Honors
-- *e.g., Employee of the Month, 2022*
-- *e.g., Innovation Award for Project X*
-
-### Volunteer Experience
-- *Organization/Role/Date*
-- *Responsibilities/Achievements*
+- Eagle Award RNAM 2019 Gold level for upsell (Higest Award in the region)
+- Innovation Award 2022 for AWS Introduction in BSS
 
 ### Languages
 - **English** – Fluent
