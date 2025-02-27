@@ -16,6 +16,7 @@ I am an accomplished technology leader, with proven success in driving innovatio
 
 - **Skill 1** (Programming Languages: golang, c/c++, Python, bash)
 - **Skill 2** (Cloud Platforms: AWS, CNIS, Openshift, Kubernetes)
+- **Skill 3** (Technology: Flux, Gitlab, Github)
 - **Skill 3** (Technology: Continous Integration, Continous Deliver/Deployment, DevOps)
 ---
 
