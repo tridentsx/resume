@@ -24,25 +24,6 @@ I am an accomplished technology leader, with proven success in driving innovatio
 - **Security/Compliance: Supply Chain Security, Identity Management, Network Security, SOC2, HIPA**
 ---
 
-## Professional Experience
-
-### **Job Title**, Company Name  
-**Location** (Month YYYY – Month YYYY)
-
-- **Responsibility/Achievement** – Use action verbs (e.g., Led, Managed, Increased, Reduced).
-- **Responsibility/Achievement** – Highlight quantifiable results when possible (e.g., “Reduced costs by 20%”).
-- **Responsibility/Achievement** – Emphasize how you solved problems, added value, and collaborated.
-
-### **Job Title**, Company Name  
-**Location** (Month YYYY – Month YYYY)
-
-- **Responsibility/Achievement** …
-- **Responsibility/Achievement** …
-- **Responsibility/Achievement** …
-
-*(Continue for other relevant roles in reverse chronological order.)*
-
-
 ### **Head of SWPS (Software Pipelines & Support) Technical and Security** Ericsson AB
 **Karlskrona, Blekinge County, Sweden** (Jun 2023 – Present)
 
@@ -107,20 +88,19 @@ Ericsson Global, (Aug 1997 – Feb 2013)
 
 ## Education
 
-### **Degree/Certification**, Institution Name  
-Location (Month YYYY – Month YYYY)
+### **Blekinge Tekniska Högskola 60 Credits Software engineering**  
+Location (Aug 1991 – May 1993)
 
-- (Optional) **Achievements/Key Coursework** – If relevant to the roles you seek.
-- (Optional) **Honors/Awards** – If notable (e.g., Dean’s List, Cum Laude).
+### **Umeå University 60 Credits Software engineering**  
+Location (2012 – Now)
+
 
 ---
 
-## Certifications (Optional)
+## Certifications
 
-- **Certification Name** (Issuing Organization, Year)
-- **Certification Name** (Issuing Organization, Year)
-
-*(Include relevant professional certifications or licenses.)*
+- **Solaris Certified Network Admin** (Sun Microsystems, 1999)
+- **Solaris Certified System Administrator** (Sun Microsystems, 1999)
 
 ---
 
