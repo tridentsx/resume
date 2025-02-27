@@ -1,6 +1,6 @@
 # Carl-Fredrik Sundstrom
 
-**Location**: Frisco, TX/USA (Karlskrona, Sweden)  
+**Location**: Karlskrona, Sweden  
 **Phone**: +46 733 02 11 45  
 **Email**: carl.f.sundstrom@gmail.com 
 **LinkedIn**: [www.linkedin.com/in/carl-fredrik-sundstrom/](https://www.linkedin.com/in/carl-fredrik-sundstrom/)  
@@ -9,18 +9,14 @@
 
 ## Professional Summary
 
-I am an accomplished technology leader returning to North Texas, with proven success in driving innovation across cloud-native platforms, Kubernetes, and Go-based microservices. My deep expertise in supply chain security, SOC 2 compliance, and regulated industries enables me to deliver secure, scalable solutions through robust CI/CD pipelines. Leveraging a global leadership background, I excel at building high-performing teams that adopt and integrate cutting-edge technologies. Eager to reestablish myself in the U.S. after several years abroad, I am ready to spearhead transformative initiatives and deliver exceptional results for forward-thinking organizations.
+I am an accomplished technology leader, with proven success in driving innovation across cloud-native platforms, Kubernetes, and Go-based microservices. My deep expertise in supply chain security, SOC 2 compliance, and regulated industries enables me to deliver secure, scalable solutions through robust CI/CD pipelines. Leveraging a global leadership background, I excel at building high-performing teams that adopt and integrate cutting-edge technologies. I am ready to spearhead transformative initiatives and deliver exceptional results for forward-thinking organizations.
 ---
 
 ## Core Skills
 
 - **Skill 1** (Programming Languages: golang, c/c++, Python, bash)
 - **Skill 2** (Cloud Platforms: AWS, CNIS, Openshift, Kubernetes)
-- **Skill 3** (Technology: Continous Integration)
-- **Skill 4** (e.g., Project Management, Agile/Scrum)
-
-*(Add or remove bullet points as needed.)*
-
+- **Skill 3** (Technology: Continous Integration, Continous Deliver/Deployment, DevOps)
 ---
 
 ## Professional Experience
@@ -42,14 +38,14 @@ I am an accomplished technology leader returning to North Texas, with proven suc
 *(Continue for other relevant roles in reverse chronological order.)*
 
 
-### **Head of SWPS Technical and Security** Ericsson AB
+### **Head of SWPS (Software Pipelines & Support) Technical and Security** Ericsson AB
 **Karlskrona, Blekinge County, Sweden** (Jun 2023 – Present)
 
 - **Set the strategic direction for technology and security for the whole end to end software supply chain and drove topices such as**
 - **GitOps** Adoption and support of Flux accorss portifolio
 - **CI/CD*** Oversee the implementation of GitLab
 - **Internal developer portals& Platform**
-- ** Opensource and 3PP Management**
+- **Opensource and 3PP Management**
 - **Unified the organisation on one CICD **, and software supply chain.
 
 ### **Head of BSS Solution and Product Characteristics** Ericsson Inc
@@ -74,14 +70,11 @@ Delivered Ericsson Revenue Manager to an 11-country operator account across Afri
 Led a team of 7 architects/SMEs ensuring full coverage of non-functional domain requirements.
 Senior Solutions Architect
 
-
 ### ** E2E BSS Solution Architect** Ericsson Inc
 Bellevue, WA, USA (Apr 2014 – May 2016)
 
 Architected a large-scale BSS transformation project (billing, order management, product catalog, middleware) integrating legacy back-office applications (revenue assurance, fraud management, campaign management).
 Defined frameworks for control & compliance (SOX, SOC 1 audits); led a team of 7 architects on domain solutions.
-
-
 
 ### ** Principal Engineer, Cloud Services ** Ericsson Inc 
 Plano, TX, USA (Feb 2013 – Apr 2014)
@@ -90,53 +83,19 @@ Served as main architect for data center infrastructure including IP backbone, S
 Drove vendor management, RFP preparations, and quarterly business reviews; supported business cases/solutions for cloud services proposals in Region North America.
 
 
-SS7 & Transport Manager
-Ericsson | May 2010 – Feb 2013
+### ** Various positions SS7 & Transport Manager / Network Support Group Manager / Master Support Engineer / IN Expert / System Engineer  ** Ericsson AB
+Ericsson | Aug 1997 – Feb 2013
 
 Managed SS7 and transport networks, overseeing network security, backbone maintenance, and related infrastructure projects.
-Coordinated cross-functional teams to ensure reliable signaling and transport solutions.
-Engineer V – Svcs Sftwr
-Ericsson | Oct 2008 – May 2010
-
 Contributed to software services development and support, focusing on improving system reliability and service quality.
-Collaborated with cross-departmental teams to troubleshoot and optimize network services.
-Network Support Group Manager, Market Unit South East Asia
-Ericsson, Dhaka, Bangladesh | Sep 2007 – Sep 2008
-
 Led support for IN/VAS/BSS products across 9 countries; managed 40+ staff to deliver high-quality, efficient service.
-Improved regional support operations by implementing best practices and targeted knowledge transfer.
-Master Support Engineer
-Ericsson | Jul 2006 – Sep 2007
-
 Provided expert-level support and guidance on Ericsson products, mentoring local engineers in Bangladesh.
-Handled high-priority support cases, increasing local team self-sufficiency.
-Services Engineer
-Ericsson | Jul 2004 – Jul 2006
-
 Started up AT&T/Cingular prepaid services; integrated 220+ MSCs with Ericsson-hosted SCPs.
-Supported and maintained prepaid services for multiple customers, ensuring seamless service delivery.
-System Engineer
-Ericsson | May 2001 – Jul 2004
-
 Served as system verification lead for PPS releases (3.4, 3.5, 3.6).
-Coordinated testing cycles, led quality assurance initiatives, and optimized release workflows.
-IN Expert
-Ericsson | Jun 2000 – May 2001
-
 Acted as technical lead for PPS 3.1 FOA in Manila, introducing CDR processing in Ericsson Charging System.
-Streamlined integration processes and enhanced system performance for local deployments.
-System Engineer
-Ericsson, Lisbon, Portugal | Aug 1998 – Jun 2000
-
 Introduced PPS 3.0 at Optimus; installed three MSCs and conducted radio network planning for phases 3 and 4.
 Managed migration of nine BSCs, coordinating with cross-functional teams for minimal service disruption.
-AXE Installation Engineer
-Ericsson | Aug 1997 – Aug 1998
-
 Designed, installed, and integrated new AXE switches in China.
-Collaborated with field teams and vendors to ensure on-time, high-quality deployments.
-
-
 ---
 
 ## Education
