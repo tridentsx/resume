@@ -90,16 +90,16 @@ Drove vendor management, RFP preparations, and quarterly business reviews; suppo
 ### ** Various positions SS7 & Transport Manager / Network Support Group Manager / Master Support Engineer / IN Expert / System Engineer  ** Ericsson AB
 Ericsson Global, (Aug 1997 – Feb 2013)
 
-Managed SS7 and transport networks, overseeing network security, backbone maintenance, and related infrastructure projects.
-Contributed to software services development and support, focusing on improving system reliability and service quality.
-Led support for IN/VAS/BSS products across 9 countries; managed 40+ staff to deliver high-quality, efficient service.
-Provided expert-level support and guidance on Ericsson products, mentoring local engineers in Bangladesh.
-Started up AT&T/Cingular prepaid services; integrated 220+ MSCs with Ericsson-hosted SCPs.
-Served as system verification lead for PPS releases (3.4, 3.5, 3.6).
-Acted as technical lead for PPS 3.1 FOA in Manila, introducing CDR processing in Ericsson Charging System.
-Introduced PPS 3.0 at Optimus; installed three MSCs and conducted radio network planning for phases 3 and 4.
-Managed migration of nine BSCs, coordinating with cross-functional teams for minimal service disruption.
-Designed, installed, and integrated new AXE switches in China.
+- Managed SS7 and transport networks, overseeing network security, backbone maintenance, and related infrastructure projects.
+- Contributed to software services development and support, focusing on improving system reliability and service quality.
+- Led support for IN/VAS/BSS products across 9 countries; managed 40+ staff to deliver high-quality, efficient service.
+- Provided expert-level support and guidance on Ericsson products, mentoring local engineers in Bangladesh.
+- Started up AT&T/Cingular prepaid services; integrated 220+ MSCs with Ericsson-hosted SCPs.
+- Served as system verification lead for PPS releases (3.4, 3.5, 3.6).
+- Acted as technical lead for PPS 3.1 FOA in Manila, introducing CDR processing in Ericsson Charging System.
+- Introduced PPS 3.0 at Optimus; installed three MSCs and conducted radio network planning for phases 3 and 4.
+- Managed migration of nine BSCs, coordinating with cross-functional teams for minimal service disruption.
+- Designed, installed, and integrated new AXE switches in China during AM4 project.
 
 
 ---
