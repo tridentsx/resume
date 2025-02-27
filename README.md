@@ -58,32 +58,37 @@ Leveraging a global leadership background, I excel at building high-performing t
 - Led asset creation and event support to accelerate product evolution and innovation.
 
 
-### ** E2E BSS Solution Architect** Ericsson Inc
-** Global 60% Travel based Las Vegas NV (May 2016 – Jul 2019)
+### **E2E BSS Solution Architect** Ericsson Inc 
+**Global 60% Travel based Las Vegas NV (May 2016 – Jul 2019)**
 
 - **Drove requirements definition, design, and implementation of security, business continuity, and operational management for a multi-country, full-stack BSS project.**
 - **Delivered Ericsson Revenue Manager to an 11-country operator account across Africa, Eastern Europe, and Central Asia.**
 - **Led a team of 7 architects/SMEs ensuring full coverage of non-functional domain requirements.**
   
 
-### ** E2E BSS Solution Architect** Ericsson Inc
-Bellevue, WA, USA (Apr 2014 – May 2016)
+### **E2E BSS Solution Architect** Ericsson Inc
+**Bellevue, WA, USA (Apr 2014 – May 2016)**
 
 - Architected a large-scale BSS transformation project (billing, order management, product catalog, middleware) integrating legacy back-office applications (revenue assurance, fraud management, campaign management).
 - Defined frameworks for control & compliance (SOX, SOC 1 audits);
 - led a team of 7 architects on domain solutions.
 
 
-### ** Principal Engineer, Cloud Services ** Ericsson Inc 
-Plano, TX, USA (Feb 2013 – Apr 2014)
+### **Principal Engineer, Cloud Services** Ericsson Inc 
+**Plano, TX, USA (Feb 2013 – Apr 2014)**
 
 - Served as main architect for data center infrastructure including IP backbone, SS7 networks, security, and long-haul transport.
     - Transformed the network from circuit switch to all IP 
 - Drove vendor management, RFP preparations, and quarterly business reviews; supported business cases/solutions for cloud services proposals in Region North America.
 
 
-### ** Various positions SS7 & Transport Manager / Network Support Group Manager / Master Support Engineer / IN Expert / System Engineer  ** Ericsson AB
-Ericsson Global, (Aug 1997 – Feb 2013)
+### **Various positions** Ericsson AB
+- **SS7 & Transport Manager**
+- **Network Support Group Manager**
+- **Master Support Engineer**
+- **IN Expert / System Engineer**
+
+**Ericsson Global, (Aug 1997 – Feb 2013)**
 
 - Managed SS7 and transport networks, overseeing network security, backbone maintenance, and related infrastructure projects.
 - Contributed to software services development and support, focusing on improving system reliability and service quality.
