@@ -7,7 +7,6 @@
 **Email:** carl.f.sundstrom@gmail.com  
 **LinkedIn:** [www.linkedin.com/in/carl-fredrik-sundstrom/](https://www.linkedin.com/in/carl-fredrik-sundstrom/)  
 
-![Profile Picture](me.png)
 <img src="me.png" alt="Profile Picture" width="150">
 
 
