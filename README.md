@@ -86,8 +86,7 @@ Drove vendor management, RFP preparations, and quarterly business reviews; suppo
 
 
 ### ** Various positions SS7 & Transport Manager / Network Support Group Manager / Master Support Engineer / IN Expert / System Engineer  ** Ericsson AB
-Ericsson | Aug 1997 – Feb 2013
-
+Ericsson Global, (Aug 1997 – Feb 2013)
 
 Managed SS7 and transport networks, overseeing network security, backbone maintenance, and related infrastructure projects.
 Contributed to software services development and support, focusing on improving system reliability and service quality.
@@ -156,10 +155,4 @@ Location (Month YYYY – Month YYYY)
 - *Available upon request.*  
 
 ---
-
-> **Tips for Using this Template**  
-> - Keep it **one or two pages** for most industries.  
-> - Use **action verbs** in your bullet points.  
-> - **Quantify** your achievements whenever possible (numbers, percentages, dollar amounts).  
-> - **Tailor** your resume for each job application, emphasizing the skills and experiences most relevant to that position.
 
