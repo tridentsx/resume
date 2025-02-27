@@ -21,6 +21,7 @@ I am an accomplished technology leader, with proven success in driving innovatio
 - **Skill 2** (Cloud Platforms: AWS, CNIS, Openshift, Kubernetes)
 - **Skill 3** (Technology: Flux, Gitlab, Github)
 - **Skill 3** (Technology: Continous Integration, Continous Deliver/Deployment, DevOps)
+- **Skill 4** (Security/Compliance: Supply Chain Security, Identity Management, Network Security, SOC2, HIPA)
 ---
 
 ## Professional Experience
