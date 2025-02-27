@@ -11,6 +11,8 @@
 
 
 I am an accomplished technology leader, with proven success in driving innovation across cloud-native platforms, Kubernetes, and Go-based microservices. My deep expertise in supply chain security, SOC 2 compliance, and regulated industries enables me to deliver secure, scalable solutions through robust CI/CD pipelines. Leveraging a global leadership background, I excel at building high-performing teams that adopt and integrate cutting-edge technologies. I am ready to spearhead transformative initiatives and deliver exceptional results for forward-thinking organizations.
+
+
 ---
 
 ## Core Skills
@@ -98,6 +100,8 @@ Acted as technical lead for PPS 3.1 FOA in Manila, introducing CDR processing in
 Introduced PPS 3.0 at Optimus; installed three MSCs and conducted radio network planning for phases 3 and 4.
 Managed migration of nine BSCs, coordinating with cross-functional teams for minimal service disruption.
 Designed, installed, and integrated new AXE switches in China.
+
+
 ---
 
 ## Education
