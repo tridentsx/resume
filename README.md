@@ -9,6 +9,7 @@
 
 ## Professional Summary
 
+
 I am an accomplished technology leader, with proven success in driving innovation across cloud-native platforms, Kubernetes, and Go-based microservices. My deep expertise in supply chain security, SOC 2 compliance, and regulated industries enables me to deliver secure, scalable solutions through robust CI/CD pipelines. Leveraging a global leadership background, I excel at building high-performing teams that adopt and integrate cutting-edge technologies. I am ready to spearhead transformative initiatives and deliver exceptional results for forward-thinking organizations.
 ---
 
@@ -86,6 +87,7 @@ Drove vendor management, RFP preparations, and quarterly business reviews; suppo
 
 ### ** Various positions SS7 & Transport Manager / Network Support Group Manager / Master Support Engineer / IN Expert / System Engineer  ** Ericsson AB
 Ericsson | Aug 1997 – Feb 2013
+
 
 Managed SS7 and transport networks, overseeing network security, backbone maintenance, and related infrastructure projects.
 Contributed to software services development and support, focusing on improving system reliability and service quality.
