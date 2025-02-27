@@ -41,35 +41,42 @@ Leveraging a global leadership background, I excel at building high-performing t
 
 - **Defined and executed SA BSS technology, architecture vision, and evolution for non-functional characteristics (serviceability, cloud native, SW Delivery Pipeline).**
 - **Created and maintained blueprints for Cloud Native, SWDP (Software Delivery Pipeline), and other non-functional areas;**
-- Supported product organizations in implementation.
-- Leveraged GitLab, Flux, and Go for continuous integration and deployment.
+- **Supported product organizations in implementation.**
+- **Leveraged GitLab, Flux, and Go for continuous integration and deployment.**
 
 ### **Head of E2E Integration Factory** Ericsson Inc
 **Plano, TX, USA**  (Jul 2019 – Nov 2020)
 
-Incubated critical initiatives within BSS R&D, including the Cloud Native journey, ML/AI learning, demo management, and prototyping.
-Led asset creation and event support to accelerate product evolution and innovation.
+- **Incubated critical initiatives within BSS R&D**
+  - Cloud Native journey
+  - ML/AI learning
+  - Demo management
+  - Prototyping.
+- Led asset creation and event support to accelerate product evolution and innovation.
 
 
 ### ** E2E BSS Solution Architect** Ericsson Inc
 ** Global 60% Travel based Las Vegas NV (May 2016 – Jul 2019)
 
-Drove requirements definition, design, and implementation of security, business continuity, and operational management for a multi-country, full-stack BSS project.
-Delivered Ericsson Revenue Manager to an 11-country operator account across Africa, Eastern Europe, and Central Asia.
-Led a team of 7 architects/SMEs ensuring full coverage of non-functional domain requirements.
-Senior Solutions Architect
+- **Drove requirements definition, design, and implementation of security, business continuity, and operational management for a multi-country, full-stack BSS project.**
+- **Delivered Ericsson Revenue Manager to an 11-country operator account across Africa, Eastern Europe, and Central Asia.**
+- **Led a team of 7 architects/SMEs ensuring full coverage of non-functional domain requirements.**
+  
 
 ### ** E2E BSS Solution Architect** Ericsson Inc
 Bellevue, WA, USA (Apr 2014 – May 2016)
 
-Architected a large-scale BSS transformation project (billing, order management, product catalog, middleware) integrating legacy back-office applications (revenue assurance, fraud management, campaign management).
-Defined frameworks for control & compliance (SOX, SOC 1 audits); led a team of 7 architects on domain solutions.
+- Architected a large-scale BSS transformation project (billing, order management, product catalog, middleware) integrating legacy back-office applications (revenue assurance, fraud management, campaign management).
+- Defined frameworks for control & compliance (SOX, SOC 1 audits);
+- led a team of 7 architects on domain solutions.
+
 
 ### ** Principal Engineer, Cloud Services ** Ericsson Inc 
 Plano, TX, USA (Feb 2013 – Apr 2014)
 
-Served as main architect for data center infrastructure including IP backbone, SS7 networks, security, and long-haul transport.
-Drove vendor management, RFP preparations, and quarterly business reviews; supported business cases/solutions for cloud services proposals in Region North America.
+- Served as main architect for data center infrastructure including IP backbone, SS7 networks, security, and long-haul transport.
+    - Transformed the network from circuit switch to all IP 
+- Drove vendor management, RFP preparations, and quarterly business reviews; supported business cases/solutions for cloud services proposals in Region North America.
 
 
 ### ** Various positions SS7 & Transport Manager / Network Support Group Manager / Master Support Engineer / IN Expert / System Engineer  ** Ericsson AB
