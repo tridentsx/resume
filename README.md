@@ -17,11 +17,11 @@ I am an accomplished technology leader, with proven success in driving innovatio
 
 ## Core Skills
 
-- **Skill 1** (Programming Languages: golang, c/c++, Python, bash)
-- **Skill 2** (Cloud Platforms: AWS, CNIS, Openshift, Kubernetes)
-- **Skill 3** (Technology: Flux, Gitlab, Github)
-- **Skill 3** (Technology: Continous Integration, Continous Deliver/Deployment, DevOps)
-- **Skill 4** (Security/Compliance: Supply Chain Security, Identity Management, Network Security, SOC2, HIPA)
+- **Programming Languages: golang, c/c++, Python, bash**
+- **Cloud Platforms: AWS, CNIS, Openshift, Kubernetes**
+- **Gitops: Flux, Gitlab, Github**
+- **Technology: Continous Integration, Continous Deliver/Deployment, DevOps**
+- **Security/Compliance: Supply Chain Security, Identity Management, Network Security, SOC2, HIPA**
 ---
 
 ## Professional Experience
